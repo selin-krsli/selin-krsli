@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selin Karsli</h1>
-- 🌱 I’m currently learning **Asp.Net Core**
+- 🌱 I’m currently learning Asp.Net Core
 
 - 📫 How to reach me **selin.krsli@gmail.com**
 
